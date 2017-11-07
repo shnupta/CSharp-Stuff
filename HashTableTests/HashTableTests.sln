@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTableTests", "HashTableTests\HashTableTests.csproj", "{167C23E0-6CCE-4660-B598-F533D89F9B63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{167C23E0-6CCE-4660-B598-F533D89F9B63}.Debug|x86.ActiveCfg = Debug|x86
+		{167C23E0-6CCE-4660-B598-F533D89F9B63}.Debug|x86.Build.0 = Debug|x86
+		{167C23E0-6CCE-4660-B598-F533D89F9B63}.Release|x86.ActiveCfg = Release|x86
+		{167C23E0-6CCE-4660-B598-F533D89F9B63}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
