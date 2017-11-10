@@ -9,9 +9,9 @@ namespace KCTable
 
         public KeyValue(K k, V v)
         {
-            this.key = k;
-            this.val = v;
-            deleted = false;
+            key = k;
+            val = v;
+            deleted = false; // by default is not deleted
         }
     }
 }

@@ -1,0 +1,7 @@
+\\fs3\2017\2017williamsc\My Documents\CSharp-Stuff-master\HashTableTests\HashTableTests\obj\x86\Debug\HashTableTests.csprojResolveAssemblyReference.cache
+\\fs3\2017\2017williamsc\My Documents\CSharp-Stuff-master\HashTableTests\HashTableTests\bin\Debug\HashTableTests.exe
+\\fs3\2017\2017williamsc\My Documents\CSharp-Stuff-master\HashTableTests\HashTableTests\bin\Debug\HashTableTests.pdb
+\\fs3\2017\2017williamsc\My Documents\CSharp-Stuff-master\HashTableTests\HashTableTests\bin\Debug\KCTable.dll
+\\fs3\2017\2017williamsc\My Documents\CSharp-Stuff-master\HashTableTests\HashTableTests\bin\Debug\KCTable.pdb
+\\fs3\2017\2017williamsc\My Documents\CSharp-Stuff-master\HashTableTests\HashTableTests\obj\x86\Debug\HashTableTests.exe
+\\fs3\2017\2017williamsc\My Documents\CSharp-Stuff-master\HashTableTests\HashTableTests\obj\x86\Debug\HashTableTests.pdb
